@@ -5,17 +5,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is an ecommerce application with 2 distinct components. The customer page has various functions such as the ability to purchase items, view purchase history and submit service requests. The administrator page is able to track current stocks, view and approve service requests.
+
+We used Python Tkinter for our graphical user interface, MySQL for our back-end, entity relationship modelling concepts for database design, and Git for version control.
 
 
 ### Built With
 
 * Tkinter
-* []()
-* []()
-
 
 
 <!-- GETTING STARTED -->
@@ -35,7 +32,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/danieltwh/BT2102Project.git
+   git clone https://github.com/eryuanren/BT2102Project.git
    ```
 
 ### Start the application
